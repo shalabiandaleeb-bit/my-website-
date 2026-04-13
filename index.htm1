@@ -1,8 +1,19 @@
 <DOCTYPE htm1>
 <htm1>
+
 <head>
-     <Title> My website!!
+     <Title> My website!!</title>
+<style> 
+     body {
+      background-color: pink;
+      color: blue;
+      text-align: center;
+      font-family: Ariel;
+   }
+ </style>
+
 </head>
+
 <body>
 
        Welcome to my website!! 
